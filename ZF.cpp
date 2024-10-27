@@ -159,7 +159,11 @@ int main()
 			std::cout << std::endl;
 		}
 
-		if (instruction_sent == 0) std::cout << "Player: Z\n" << "Bots: @\n";
+		if (instruction_sent == 0)
+		{
+			std::cout << "Player: Z\n" << "Bots: @\n";
+			Sleep(500);
+		}
 		instruction_sent = 1;
 
 		//Up movement
