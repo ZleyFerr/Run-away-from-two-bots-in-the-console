@@ -5,7 +5,7 @@
 std::random_device rd;
 std::mt19937 gen(rd());
 std::uniform_int_distribution<int> dist(0, 4);
-std::uniform_int_distribution<int> dist1(0, 25);
+std::uniform_int_distribution<int> dist1(1, 25);
 //map creation
 const int mapWidth = 29, mapHeight = 29;
 char map[mapHeight][mapWidth]
