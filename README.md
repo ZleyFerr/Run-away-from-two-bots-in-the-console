@@ -1,4 +1,4 @@
-In this game you have to run away from two bots on the console
+В этой игре игроку предстоит убегать по консоле от ботов, которые рандомно передвигаются
 Control:
 UP ARROW - UP
 DOWN ARROW - DOWN
